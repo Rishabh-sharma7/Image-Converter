@@ -23,4 +23,3 @@ dist-ssr
 .env
 backend/uploads/
 node_modules/
-mee/
